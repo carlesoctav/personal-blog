@@ -1,0 +1,22 @@
+---
+title: "About"
+image: car-zoo.jpg
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/Carlesoctav
+    - icon: linkedin
+      text: LinkedIn
+      href: https://id.linkedin.com/in/carles-o-33848724b
+    - icon: github
+      text: Github
+      href: https://github.com/carlesoctav
+
+---
+
+
+
+
+Hi, I'm Carles, and I created this blog as a space to practice my writing skills and share my thoughts and ideas. I have a (bit) passion for mathematics stuffs and machine learning, and I'm excited to explore these topics further through this platform.
